@@ -5,7 +5,7 @@
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("images/1.jpg");
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%);
     background-position: center;
     background-size: cover;
     height: 300vh;
@@ -86,6 +86,7 @@ ul li a:hover{
     border-bottom-left-radius: 5px;
     border-top-left-radius: 5px;
 }
+
 
 .btn{
     width: 100px;
@@ -253,6 +254,7 @@ ul li a:hover{
     padding-bottom: 10px;
     text-align: center;
 }
+
 .icons a{
     text-decoration: none;
     color: #fff;
@@ -260,7 +262,7 @@ ul li a:hover{
 .icons ion-icon{
     color: #fff;
     font-size: 30px;
-    padding-left: 14px;
+    padding-left: 60px;
     padding-top: 5px;
     transition: 0.3s ease;
 }
