@@ -128,7 +128,7 @@ ul li a:hover{
 .content .par{
     padding-left: 20px;
     padding-bottom: 25px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
     letter-spacing: 1.2px;
     line-height: 30px;
 }
@@ -142,6 +142,7 @@ ul li a:hover{
 }
 .n{
     font-size: 30px;
+
 }
 .content .cn{
     width: 160px;
