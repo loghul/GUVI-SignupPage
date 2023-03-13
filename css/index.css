@@ -4,11 +4,13 @@
 }
 body{
     background-image: url("1.jpg");
+    background-size: cover;
+
 };
 
 .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(1.jpg);
+    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url("1.jpg");
     background-position: center;
     background-size: cover;
     height: 300vh;
@@ -130,6 +132,7 @@ ul li a:hover{
 .content .par{
     padding-left: 20px;
     padding-bottom: 25px;
+    
     font-style: italic;
     letter-spacing: 1.2px;
     line-height: 30px;
